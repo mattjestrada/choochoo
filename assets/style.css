@@ -1,0 +1,26 @@
+body {
+	background-color: #D69C2F;
+	font-family: 'Luckiest Guy', cursive;
+}
+th {
+	font-size: 20px;
+	text-align: center;
+	background-color: #E83E35;
+}
+.panel-heading, h4, button {
+	font-size: 30px;
+	text-align: center;
+	background-color: #35ACE8 !important;
+}
+td {
+	text-align: center;
+}
+label {
+	font-size: 16px;
+}
+.jumbotron {
+	color: #E0A43A;
+	background-image: url(http://www.wnd.com/files/2013/03/the-band-train-hold-their-award-for-best-pop-performance-by-duo-or-group-vocals-at-53rd-grammy-awards-los-angeles-184.jpg);
+	background-position: center;
+	background-size: contain;
+}
