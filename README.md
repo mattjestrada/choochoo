@@ -2,6 +2,8 @@
 
 A train timestable to add times and trains using Moment.js and hosted by Firebase.
 
+Here's some linkage: https://mattjestrada.github.io/choochoo/
+
 Issues:
 I can't seem to figure out this error message that I'm trying to connect my app to my Firebase. 
 
